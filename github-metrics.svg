@@ -287,15 +287,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 351kb of code in 68 edited files across 82 commits over last 14 days</small>
+                <small>estimation from 333kb of code in 59 edited files across 68 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="892.549488617618" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="892.549488617618" y="0" width="14.335477840096777" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="906.8849664577148" y="0" width="13.115033542285275" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="896.5426677713339" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="896.5426677713339" y="0" width="14.39961336647335" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="910.9422811378072" y="0" width="9.057718862192765" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -649,7 +649,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2025, 06:27:01 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Apr 2025, 07:22:43 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
