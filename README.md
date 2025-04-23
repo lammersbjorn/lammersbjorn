@@ -1,37 +1,19 @@
-o/
+o/ hey, i'm bjorn.
 
-bjorn lammers
+**support my work?**
 
-founder @ lammers media · helping freelancers & smes with it solutions.
+consider sponsoring if you find my projects helpful ♡
+<br />https://github.com/sponsors/lammersbjorn
 
+**you might know me from my open source contributions, particularly:**
 
-·&nbsp;&nbsp;·&nbsp;&nbsp;·
+* the original creator/maintainer of [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
+* a core contributor to [homarr-labs/homarr](https://github.com/homarr-labs/homarr) and [ajnart/homarr](https://github.com/ajnart/homarr)
+* creator of some yourls plugins (like [random-redirect-manager](https://github.com/lammersbjorn/YOURLS-Random-Redirect-Manager) and [awin](https://github.com/lammersbjorn/YOURLS-Awin))
+* the amazing forks [spotify-to-plex](https://github.com/lammersbjorn/spotify-to-plex) and [spotify-to-lastfm](https://github.com/lammersbjorn/spotify-to-lastfm)
 
+i spend a good chunk of my time building, maintaining, and improving these projects, alongside running my company, lammers media, where i help freelancers and smes with it solutions that work.
 
-support my work?
-<br><br>consider sponsoring if you find my projects helpful ↓
-<br>https://github.com/sponsors/lammersbjorn
+**stats:**
 
-
-·&nbsp;&nbsp;·&nbsp;&nbsp;·
-
-
-contributions
-<br><br>&nbsp;&nbsp;⊹ original creator & maintainer
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
-<br><br>&nbsp;&nbsp;⊹ core contributor
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/homarr](https://github.com/homarr-labs/homarr)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/homarr](https://github.com/ajnart/homarr)
-<br><br>&nbsp;&nbsp;⊹ forks
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/spotify-to-plex](https://github.com/lammersbjorn/spotify-to-plex)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/spotify-to-lastfm](https://github.com/lammersbjorn/spotify-to-lastfm)
-<br><br>&nbsp;&nbsp;⊹ yourls
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/yourls-random-redirect-manager](https://github.com/lammersbjorn/YOURLS-Random-Redirect-Manager)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[/yourls-awin](https://github.com/lammersbjorn/YOURLS-Awin)
-
-
-·&nbsp;&nbsp;·&nbsp;&nbsp;·
-
-
-stats
-<br>![metrics](https://github.com/lammersbjorn/lammersbjorn/blob/master/github-metrics.svg)
+![metrics](https://github.com/lammersbjorn/lammersbjorn/blob/master/github-metrics.svg)
