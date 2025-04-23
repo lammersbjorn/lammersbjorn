@@ -2,21 +2,28 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Allow manual runs and run on pushes to master
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    # Grant permissions for the action to write to the repository
+    permissions:
+      contents: write
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@main
+      # Use the latest version of the metrics action
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Base options
           config_timezone: Europe/Amsterdam
           config_display: large
           base_indepth: yes
           base_hireable: yes
+
+          # Enabled plugins
           plugin_traffic: yes
           plugin_activity: yes
           plugin_activity_limit: 5
@@ -24,6 +31,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: all
           plugin_activity_visibility: public
+          plugin_habits: yes
           plugin_habits_days: 30
           plugin_languages: yes
           plugin_languages_other: yes
@@ -31,3 +39,4 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_stargazers: yes
+          plugin_lines: yes
