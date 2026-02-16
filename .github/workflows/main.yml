@@ -40,4 +40,4 @@ jobs:
           plugin_reactions_display: relative
           plugin_stargazers: yes
           plugin_lines: yes
-          plugin_lines_sections: base  # Fix: specify which sections to display
+          plugin_lines_sections: history, repositories
