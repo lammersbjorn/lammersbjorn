@@ -39,4 +39,3 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_stargazers: yes
-          plugin_lines: yes
