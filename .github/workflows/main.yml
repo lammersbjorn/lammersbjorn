@@ -23,16 +23,11 @@ jobs:
           base_indepth: yes
           base_hireable: yes
 
+          # Ignore bots to prevent null-login errors in commit analysis
+          base_ignored_users: github-actions[bot],dependabot[bot],dependabot-preview[bot],actions-user,action@github.com,imgbot[bot],ImgBotApp
+
           # Enabled plugins
           plugin_traffic: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_timestamps: yes
-          plugin_activity_days: 0
-          plugin_activity_filter: all
-          plugin_activity_visibility: public
-          plugin_habits: yes
-          plugin_habits_days: 30
           plugin_languages: yes
           plugin_languages_other: yes
           plugin_languages_sections: most-used
