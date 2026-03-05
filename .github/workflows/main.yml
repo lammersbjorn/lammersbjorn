@@ -27,6 +27,3 @@ jobs:
           plugin_notable_indepth: yes
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
-          plugin_lines: yes
-          plugin_lines_sections: base, history
-          plugin_lines_history_limit: 1
