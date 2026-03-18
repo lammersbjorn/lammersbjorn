@@ -1,15 +1,18 @@
 ### o/ hey, i'm bjorn.
 
-i build, maintain, and contribute to open source — alongside running **lammers media**, where i help freelancers and smes with it solutions that work.
+i build tools and platforms that help people get things done.
 
 ---
 
-**notable work**
+**what i'm building**
 
-- created [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) — the go-to icon set for self-hosted dashboards
+- [glossboss](https://github.com/glossboss-labs/glossboss) — open-source translation platform for PO, POT, and i18next JSON files. AI-powered translation from DeepL, OpenAI, Claude, Gemini, and more
+- [cannaware](https://cannaware.eu) — cannabis information platform with cannabinoid profiles, honest reviews, Dutch legislation updates, and dosing tools
+
+**notable open source work**
+
+- created [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) — the go-to icon set for self-hosted dashboards (7.8k+ stars)
 - core contributor to [homarr](https://github.com/homarr-labs/homarr) and its [predecessor](https://github.com/ajnart/homarr)
-- yourls plugins: [random-redirect-manager](https://github.com/lammersbjorn/YOURLS-Random-Redirect-Manager) / [awin](https://github.com/lammersbjorn/YOURLS-Awin)
-- forks: [spotify-to-plex](https://github.com/lammersbjorn/spotify-to-plex) / [spotify-to-lastfm](https://github.com/lammersbjorn/spotify-to-lastfm)
 
 ---
 
